@@ -51,7 +51,7 @@ tmp=is(0 "Jan|Feb|Mär|Apr|Mai|Jun|Jul|Aug|Sep|Okt|Nov|Dez|")
 ;Deaktiviere MQTT beim Start, verhindert das falsche Werte gesendet werden
 smlj=0
 
-;Anfangszählerstand
+;Anfangszählerstand (Die "0" ersetzen. Bsp. 1000 = 10.00m3)
 =>sensor53 c1 0
 
 ; -- SUBS --
@@ -234,5 +234,6 @@ $Original by ottelo.jimdo.de - modified by lasergravurwesterwald<br>
 $Hinweis: Die Daten (ohne 4h Chart) werden um Mitternacht gespeichert!<br>
 $Der Restart Button speichert ebenfalls die Daten.<br>
 $</span></center></div>
+
 
 
