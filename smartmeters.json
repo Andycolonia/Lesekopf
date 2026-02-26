@@ -38,7 +38,7 @@
 	    { "manufacturer": "EMH", "label": "EMH-eHZM", "filename": "EMH-eHZM.script" },
 	    { "manufacturer": "EMH", "label": "EMH-LZQJ-XC", "filename": "EMH-LZQJ-XC.script" },
 	    { "manufacturer": "EMH", "label": "EMH-mMe4.0", "filename": "EMH-mMe4.0.script" },
-	    { "manufacturer": "Gas", "label": "GAS-ESP8266", "filename": "GAS-ESP8266.script" },
+	    { "manufacturer": "Gas", "label": "GAS-ESP826", "filename": "GAS-ESP8266.script" },
 	    { "manufacturer": "Gas", "label": "GAS-Tag-Monat-Jahr-ESP8266", "filename": "GAS-DMY-ESP8266.script" },
 	    { "manufacturer": "Gas", "label": "GAS-Tag-Monat-Jahr+Chart-ESP8266", "filename": "GAS-DMY+Chart-ESP8266.script" },
 		{ "manufacturer": "Gas", "label": "GAS-ESP32", "filename": "GAS-ESP32.script" },
