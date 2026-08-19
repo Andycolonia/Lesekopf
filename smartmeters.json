@@ -41,6 +41,7 @@
 	    { "manufacturer": "Gas", "label": "GAS-ESP8266", "filename": "GAS-ESP8266.script" },
 	    { "manufacturer": "Gas", "label": "GAS-Tag-Monat-Jahr-ESP8266", "filename": "GAS-DMY-ESP8266.script" },
 	    { "manufacturer": "Gas", "label": "GAS-Tag-Monat-Jahr+Chart-ESP8266", "filename": "GAS-DMY+Chart-ESP8266.script" },
+		{ "manufacturer": "Gas", "label": "Historie-Tag-Monat-Jahr+Chart", "filename": "GAS-HOMEASSISTANT-DMY-ESP8266.script" }
 		{ "manufacturer": "Gas", "label": "GAS-ESP32", "filename": "GAS-ESP32.script" },
 	    { "manufacturer": "Gas", "label": "GAS-Tag-Monat-Jahr-ESP32", "filename": "GAS-DMY-ESP32.script" },
 	    { "manufacturer": "Gas", "label": "GAS-Tag-Monat-Jahr+Chart-ESP32", "filename": "GAS-DMY+Chart-ESP32.script" },
